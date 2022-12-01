@@ -1,1 +1,5 @@
 numpy @ file:///C:/Users/hawthornk/Desktop/int_inf/3.9/numpy-1.23.5-cp39-cp39-win_amd64.whl
+pytest @ file:///N:/rtp/JK/pythonModuleFiles/pytest-7.2.0-py3-none-any.whl
+#pytest==7.2.0
+#numpy==1.21.0
+pylint==2.15.6
